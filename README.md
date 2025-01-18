@@ -8,7 +8,8 @@ FEATURES
 
 -Delete task.
 
-Technology stack
+
+TECHNOLOGY STACK
 
 -HTML.
 
