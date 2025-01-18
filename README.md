@@ -1,5 +1,12 @@
 Features
--Create task, Read tasks, Update tasks, Delete task.
+
+-Create task.
+
+-Read tasks.
+
+-Update tasks.
+
+-Delete task.
 
 Technology stack
 -HTML, CSS, Bootstrap, Thymeleaf, Lombok, Java, Spring, MySQL.
