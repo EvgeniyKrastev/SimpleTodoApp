@@ -31,7 +31,7 @@ To start the project you need to:
 
 - open it from intelij, open from pom.xml file.
 
-- Connect MySQL database src.main.resources.application.properties (all settings for the DB are here) need to add username and password for Database.
+- Connect MySQL database src.main.resources.application.properties (all connection settings for the DB are here) need to add username and password for Database.
 
 - in MySQL create database todo-app, then start project from TodoappApplication.java and the tables must to create automaticly.
 
