@@ -4,7 +4,7 @@ FEATURES
 
 TECHNOLOGY STACK
 
--HTML,CSS,Bootstrap,Thymeleaf,Lombok,Java,Spring,MySQL.
+-HTML, CSS, Bootstrap, Thymeleaf, Lombok, Java, Spring, MySQL.
 
 To start the project you need to:
 
