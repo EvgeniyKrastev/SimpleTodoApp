@@ -1,31 +1,10 @@
 FEATURES
 
--Create task.
-
--Read tasks.
-
--Update tasks.
-
--Delete task.
-
+-Create, Read, Update, Delete tasks.
 
 TECHNOLOGY STACK
 
--HTML.
-
--CSS.
-
--Bootstrap.
-
--Thymeleaf.  
-
--Lombok. 
-
--Java.  
-
--Spring.
-
--MySQL.
+-HTML,CSS,Bootstrap,Thymeleaf,Lombok,Java,Spring,MySQL.
 
 To start the project you need to:
 
