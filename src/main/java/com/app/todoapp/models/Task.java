@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 import lombok.Data;
 
 @Entity
-@Data //it's from lombok it is used instead of getter and setter
+//@Data //it's from lombok it is used instead of getter and setter
 public class Task {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
